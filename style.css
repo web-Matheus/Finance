@@ -1,0 +1,35 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+#all{
+    background-color: #f1f1f2;
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+    border-radius: 20px;
+   
+   
+}
+#all section{
+    display: flex;
+    text-align: center;
+}
+#all h1{
+    text-align: center;
+}
+.moedas{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+div{
+    background-color: rgb(146, 146, 131);
+    height: 30vh;
+    border-radius: 10px;
+    margin-top: 30px;
+}
